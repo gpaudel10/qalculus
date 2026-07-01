@@ -22,7 +22,7 @@ redistribute it.
 
 ## Reporting a security issue
 
-Email [paudelg09@gmail.com](mailto:paudelg09@gmail.com) (for now, btw i need to make org mail ;( ) with the subject
+Email [paudelg09@gmail.com](mailto:paudelg09@gmail.com) (for now, btw i need to make org mail ;(. with the subject
 `Security report for Qalculus Labs`.
 
 Please include:
