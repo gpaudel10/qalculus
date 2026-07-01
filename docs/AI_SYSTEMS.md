@@ -1,40 +1,27 @@
-# Future systems
+# Qalculus AI Systems
 
-**Updated:** 29 June 2026
+**Updated:** 1 July 2026
 
 **Current stage:** Research direction
 
-Qalculus Labs is interested in the infrastructure that future AI and emerging
-computational systems will need in order to become more dependable, efficient,
-and governable over time.
+Qalculus AI Systems is our longer-term direction for dependable AI and future
+computational systems.
 
-This is a long-term research direction. It is deliberately separate from the
-current Qalculus Data Systems product so that an interesting idea is not
-mistaken for a shipped feature.
+We are interested in building AI systems that are not only capable, but also
+measurable, governable, and useful in real operating environments. This is a
+separate direction from the current Qalculus Data Systems product and should
+not be read as a released product claim.
 
-## What we care about
+## What matters to us
 
-Any future system in this area should be judged on practical questions:
-
-- Does it solve a clearly defined problem?
-- Is the improvement measurable against a strong baseline?
-- What quality is lost when efficiency improves?
-- Can incompatible or unsafe behaviour be rejected cleanly?
-- Who controls the information, and can it be retained or deleted correctly?
-- Does the design still make sense outside a controlled demonstration?
-
-## The plan
-
-1. Define one narrow problem and the baseline it must beat.
-2. Build an independent prototype rather than forcing it into the current
-   product.
-3. Test usefulness, cost, failure behaviour, privacy, and compatibility.
-4. Publish results only when the experiment can be explained and repeated.
-5. Consider product integration only if the evidence justifies it.
+- clear problem definition;
+- meaningful measurement against a real baseline;
+- disciplined handling of safety, privacy, and control;
+- realistic performance outside a polished demonstration; and
+- system designs that remain understandable as they grow.
 
 ## Public boundary
 
-The central technical ideas, unpublished experiments, and product-sensitive
-designs are not described in this repository. We currently make no claim of a
-released AI product, production security, universal compatibility, or proven
-advantage.
+This repository does not publish the core methods, internal prototypes, or
+unreleased technical designs behind this direction. We currently make no claim
+of a released AI product, universal compatibility, or proven advantage.

@@ -1,0 +1,9 @@
+<svg width="720" height="180" viewBox="0 0 720 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="180" rx="24" fill="#0B1420"/>
+  <circle cx="96" cy="90" r="42" stroke="#8FD3FF" stroke-width="14"/>
+  <path d="M121 118L147 144" stroke="#8FD3FF" stroke-width="14" stroke-linecap="round"/>
+  <path d="M83 90C83 75.0883 95.0883 63 110 63H150" stroke="#F6F7FB" stroke-width="14" stroke-linecap="round"/>
+  <path d="M150 63V103" stroke="#F6F7FB" stroke-width="14" stroke-linecap="round"/>
+  <text x="200" y="86" fill="#F6F7FB" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="700">QALCULUS</text>
+  <text x="200" y="122" fill="#8FA3B8" font-family="Segoe UI, Arial, sans-serif" font-size="24">Labs</text>
+</svg>

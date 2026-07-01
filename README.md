@@ -1,102 +1,58 @@
-# Qalculus Labs
+# <div align="center">![Qalculus Labs](docs/logo.svg)</div>
 
-**Mathematics, made operational.**
+# <div align="center">Qalculus Labs</div>
 
-Qalculus Labs is an independent product and research initiative being built
-from Nepal.
+<div align="center">Mathematics, data systems, and AI systems built with rigor.</div>
 
-Our aim is simple to state: make serious mathematical work easier to use in
-real systems, without hiding the assumptions, limitations, or evidence behind
-the result.
+Qalculus Labs is an independent product and research initiative based in Nepal.
 
-We are still early. This repository is not the product source code. It is the
-public home for our direction, our plan, and the evidence we are ready to
-share.
+We are building systems for serious analytical work, with a focus on clarity,
+reviewability, and real-world usefulness. This repository is the public home of
+Qalculus Labs. It shares who we are, what areas we work in, and the boundaries
+we keep around private implementation and unpublished research.
 
-## What we are building
+## What Qalculus Labs works on
 
 ### Qalculus Data Systems
 
-Our main product direction is a practical environment for teams that need to
-apply and review advanced mathematical analysis in governed data settings.
+Qalculus Data Systems is our product direction for mathematical and analytical
+work in governed data environments. The aim is to help teams run important work
+more deliberately, with stronger visibility into how results are produced and
+reviewed.
 
-The long-term vision is a system that helps a team move from a well-defined
-question to a result that can be inspected and discussed with confidence. The
-private implementation and product-sensitive methods are intentionally not
-published here.
+### Qalculus AI Systems
+
+Qalculus AI Systems is our longer-horizon systems direction around dependable
+AI, intelligent infrastructure, and future computational workflows. This area
+is being developed carefully and remains separate from released product claims.
 
 ### Qalculus Research
 
-The research side gives us room to work on questions that may take longer than
-a normal product cycle. Our public interests include applied mathematical
-systems, rigorous computation, and emerging computational methods.
+Qalculus Research covers three broad directions: applied research, theoretical
+research, and quantum research. It gives us room to pursue foundational ideas
+that matter over the long term while keeping public statements disciplined and
+concrete.
 
-We will share a topic when it is ready to be shared, not while the important
-idea is still being developed.
+## Public documents
 
-### Future systems
+- [Product Brief](docs/PRODUCT_BRIEF.md)
+- [Qalculus AI Systems](docs/AI_SYSTEMS.md)
+- [Qalculus Research](docs/RESEARCH.md)
+- [Progress and Public Claims](docs/EVIDENCE.md)
+- [AI-Assisted Development](AI_ASSISTED_DEVELOPMENT.md)
+- [Security Policy](SECURITY.md)
+- [License](LICENSE.md)
 
-We are also exploring longer-term infrastructure for dependable AI and other
-new forms of computation. These remain research programmes, not released
-products or promises of future capability.
+## Public boundary
 
-## The plan
-
-We organise the work into three practical streams.
-
-### Work 1 — Build the public foundation
-
-- establish the Qalculus Labs website and public identity;
-- keep this repository clear, useful, and honest;
-- publish approved plans, boundaries, and evidence; and
-- create a consistent place for future technical and research updates.
-
-### Work 2 — Strengthen the current product
-
-- improve the quality and reliability of the existing private platform;
-- deepen a small number of useful mathematical capabilities;
-- test each supported workflow against a clear acceptance standard; and
-- prepare a carefully bounded evaluation path for future collaborators.
-
-### Work 3 — Shape the next generation
-
-- learn from the current platform before expanding its scope;
-- define the next product around real technical and user needs;
-- keep research claims separate from implemented capability; and
-- publish more only when the work is mature enough to support it.
-
-## What is true today
-
-Qalculus Labs has an early working engineering foundation and a broader product
-direction under active development. A limited internal path has been exercised
-with synthetic data. That is useful evidence, but it is not the same as a
-production deployment, an independent security review, or a performance claim.
-
-We use five status words throughout this repository:
-
-| Status | What we mean |
-|---|---|
-| **Verified** | We exercised a named, repeatable validation path. |
-| **Implemented** | The capability exists in private code but may still need broader validation. |
-| **In development** | We are actively building it. |
-| **Research** | We are studying or prototyping it; it is not a product capability. |
-| **Planned** | It belongs to the roadmap but has not been implemented. |
-
-## Public boundaries
-
-This repository will not publish private product code, credentials, customer
-data, internal infrastructure details, or unpublished research. Public examples
-will use synthetic or otherwise approved material.
-
-Please read the [security policy](SECURITY.md) before reporting an issue and the
-[licence and use terms](LICENSE.md) before reusing any material. This repository
-is publicly viewable, but it is not open-source.
-
-More detail is available in the [public documentation](docs/README.md).
+This repository does not publish private product code, internal infrastructure,
+credentials, customer data, or unpublished core research. Public material here
+is intentionally written at the level of vision, direction, and approved
+disclosure.
 
 ## Contact
 
 For research discussion, technical evaluation, or future collaboration, email
 [paudelg09@gmail.com](mailto:paudelg09@gmail.com).
 
-© 2026 Qalculus Labs · Nepal
+Copyright (c) 2026 Qalculus Labs
