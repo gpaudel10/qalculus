@@ -1,8 +1,5 @@
-# Progress and public claims
+# Progress
 
-**Last updated:** 1 July 2026
-
-This page keeps our public language aligned with the maturity of the work.
 
 ## Current position
 
