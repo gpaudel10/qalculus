@@ -1,8 +1,6 @@
 # Public documentation
 
-These documents explain the public direction of Qalculus Labs without
-publishing private source code, product-sensitive methods, internal
-infrastructure, or unfinished research.
+These documents explain the public direction of Qalculus Labs.
 
 ## Start here
 
