@@ -1,12 +1,12 @@
 # Security policy
 
 Security reports are welcome. Qalculus Labs is still under development, and a
-careful report can help us fix a problem before it grows with the project.
+careful report (in future) can help us fix a problem before it grows with the project.
 
 ## What this repository contains
 
 This is a public planning and documentation repository. It should contain only
-material that has been approved for public release.
+material that has been approved for public release. So,
 
 It must never contain:
 
@@ -22,7 +22,7 @@ redistribute it.
 
 ## Reporting a security issue
 
-Email [paudelg09@gmail.com](mailto:paudelg09@gmail.com) with the subject
+Email [paudelg09@gmail.com](mailto:paudelg09@gmail.com) (for now, btw i need to make org mail ;( ) with the subject
 `Security report for Qalculus Labs`.
 
 Please include:

@@ -23,7 +23,7 @@ No patent, trademark, trade-secret, or other intellectual-property rights are
 granted by making this repository public.
 
 If you would like to reuse something, contact
-[paudelg09@gmail.com](mailto:paudelg09@gmail.com) before doing so.
+[paudelg09@gmail.com](mailto:paudelg09@gmail.com) (for now) before doing so.
 
 ## No warranty
 

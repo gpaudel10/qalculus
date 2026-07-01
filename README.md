@@ -6,10 +6,10 @@
 
 Qalculus Labs is an independent product and research initiative based in Nepal.
 
-We are building systems for serious analytical work, with a focus on clarity,
+We are building systems for analytical work, with a focus on clarity,
 reviewability, and real-world usefulness. This repository is the public home of
 Qalculus Labs. It shares who we are, what areas we work in, and the boundaries
-we keep around private implementation and unpublished research.
+we keep around the implementation and research.
 
 ## What Qalculus Labs works on
 
@@ -24,13 +24,13 @@ reviewed.
 
 Qalculus AI Systems is our longer-horizon systems direction around dependable
 AI, intelligent infrastructure, and future computational workflows. This area
-is being developed carefully and remains separate from released product claims.
+is being developed doing research side by side.
 
 ### Qalculus Research
 
 Qalculus Research covers three broad directions: applied research, theoretical
 research, and quantum research. It gives us room to pursue foundational ideas
-that matter over the long term while keeping public statements disciplined and
+that matter over the long term while keeping  statements disciplined and
 concrete.
 
 ## Public documents
@@ -45,14 +45,13 @@ concrete.
 
 ## Public boundary
 
-This repository does not publish private product code, internal infrastructure,
-credentials, customer data, or unpublished core research. Public material here
-is intentionally written at the level of vision, direction, and approved
+Public material here
+is intentionally written at the level of vision, direction, and
 disclosure.
 
 ## Contact
 
 For research discussion, technical evaluation, or future collaboration, email
-[paudelg09@gmail.com](mailto:paudelg09@gmail.com).
+[paudelg09@gmail.com](mailto:paudelg09@gmail.com) (for now).
 
 Copyright (c) 2026 Qalculus Labs
